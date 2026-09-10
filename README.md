@@ -24,3 +24,15 @@
 ## About
 
 This repository contains my solutions to LeetCode problems as I practice Data Structures and Algorithms and improve my problem-solving skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
