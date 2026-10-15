@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aroravansh-cyber/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/aroravansh-cyber/leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
