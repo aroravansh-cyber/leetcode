@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aroravansh-cyber/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aroravansh-cyber/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0015-3sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aroravansh-cyber/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aroravansh-cyber/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
