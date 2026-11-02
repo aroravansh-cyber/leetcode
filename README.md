@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aroravansh-cyber/leetcode/tree/master/0027-remove-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0013-roman-to-integer](https://github.com/aroravansh-cyber/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aroravansh-cyber/leetcode/tree/master/0029-divide-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +141,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0015-3sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aroravansh-cyber/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Backtracking
 |  |
 | ------- |
