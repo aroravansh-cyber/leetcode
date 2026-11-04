@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0189-rotate-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aroravansh-cyber/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0012-integer-to-roman](https://github.com/aroravansh-cyber/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aroravansh-cyber/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aroravansh-cyber/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0189-rotate-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aroravansh-cyber/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
@@ -100,6 +103,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aroravansh-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +132,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0005-longest-palindromic-substring](https://github.com/aroravansh-cyber/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aroravansh-cyber/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aroravansh-cyber/leetcode/tree/master/0022-generate-parentheses) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Manacher
 |  |
 | ------- |
@@ -165,6 +170,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aroravansh-cyber/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
 | ------- |
