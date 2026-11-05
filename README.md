@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0189-rotate-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aroravansh-cyber/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0027-remove-element](https://github.com/aroravansh-cyber/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0189-rotate-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +155,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0016-3sum-closest](https://github.com/aroravansh-cyber/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0018-4sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
