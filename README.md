@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aroravansh-cyber/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -53,6 +54,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0012-integer-to-roman](https://github.com/aroravansh-cyber/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aroravansh-cyber/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aroravansh-cyber/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aroravansh-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -156,6 +159,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0018-4sum](https://github.com/aroravansh-cyber/leetcode/tree/master/0018-4sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Backtracking
 |  |
 | ------- |
