@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aroravansh-cyber/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -178,6 +179,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aroravansh-cyber/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1882-process-tasks-using-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
