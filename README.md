@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0189-rotate-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -209,4 +210,24 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aroravansh-cyber/leetcode/tree/master/0029-divide-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
