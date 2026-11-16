@@ -111,6 +111,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0020-valid-parentheses](https://github.com/aroravansh-cyber/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aroravansh-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,6 +248,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aroravansh-cyber/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
