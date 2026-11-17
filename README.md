@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0022-generate-parentheses](https://github.com/aroravansh-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aroravansh-cyber/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +145,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0189-rotate-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aroravansh-cyber/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0010-regular-expression-matching](https://github.com/aroravansh-cyber/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aroravansh-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aroravansh-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/aroravansh-cyber/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Manacher
 |  |
