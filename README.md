@@ -281,4 +281,8 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aroravansh-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aroravansh-cyber/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
