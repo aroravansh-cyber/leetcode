@@ -300,6 +300,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0176-second-highest-salary](https://github.com/aroravansh-cyber/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/aroravansh-cyber/leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/aroravansh-cyber/leetcode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/aroravansh-cyber/leetcode/tree/master/0180-consecutive-numbers) |
 ## Tree
 |  |
 | ------- |
