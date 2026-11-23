@@ -302,6 +302,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0178-rank-scores](https://github.com/aroravansh-cyber/leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/aroravansh-cyber/leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/aroravansh-cyber/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/aroravansh-cyber/leetcode/tree/master/0182-duplicate-emails) |
 ## Tree
 |  |
 | ------- |
