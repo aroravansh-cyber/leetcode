@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aroravansh-cyber/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aroravansh-cyber/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aroravansh-cyber/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aroravansh-cyber/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +142,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,4 +333,16 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aroravansh-cyber/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
