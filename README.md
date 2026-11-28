@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aroravansh-cyber/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aroravansh-cyber/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aroravansh-cyber/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2747-count-zero-request-servers](https://github.com/aroravansh-cyber/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aroravansh-cyber/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -125,6 +126,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0022-generate-parentheses](https://github.com/aroravansh-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/aroravansh-cyber/leetcode/tree/master/0093-restore-ip-addresses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aroravansh-cyber/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aroravansh-cyber/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/aroravansh-cyber/leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -280,6 +282,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aroravansh-cyber/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aroravansh-cyber/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/aroravansh-cyber/leetcode/tree/master/3360-stone-removal-game) |
 ## Ordered Set
