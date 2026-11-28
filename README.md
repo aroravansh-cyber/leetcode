@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0189-rotate-array](https://github.com/aroravansh-cyber/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aroravansh-cyber/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aroravansh-cyber/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0806-number-of-lines-to-write-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aroravansh-cyber/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aroravansh-cyber/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0022-generate-parentheses](https://github.com/aroravansh-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/aroravansh-cyber/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0806-number-of-lines-to-write-string](https://github.com/aroravansh-cyber/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aroravansh-cyber/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aroravansh-cyber/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aroravansh-cyber/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
