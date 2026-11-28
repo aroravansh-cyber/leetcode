@@ -262,11 +262,13 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aroravansh-cyber/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aroravansh-cyber/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aroravansh-cyber/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1267-count-servers-that-communicate](https://github.com/aroravansh-cyber/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
@@ -332,6 +334,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aroravansh-cyber/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aroravansh-cyber/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Design
 |  |
@@ -361,4 +364,12 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/aroravansh-cyber/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aroravansh-cyber/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aroravansh-cyber/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
